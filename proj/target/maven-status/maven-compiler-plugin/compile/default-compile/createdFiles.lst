@@ -1,0 +1,4 @@
+com\example\demo\model\Item.class
+com\example\demo\ProjApplication.class
+com\example\demo\dao\ItemRepo.class
+com\example\demo\controller\Controller.class
